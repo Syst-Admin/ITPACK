@@ -38,7 +38,7 @@ body {
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    background-color: #000;
+    background-color: #193743;
  
 }
 
@@ -1009,7 +1009,7 @@ body {
 }
 
 .footer__copy {
-    background-color: #000;
+    background-color: #193743;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1019,13 +1019,13 @@ body {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    height: 45px
+    height: 95px
 }
 
 .footer__copy-text {
     color: #ffffff;
     font-family: Roboto;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.6px
 }
